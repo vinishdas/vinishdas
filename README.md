@@ -14,8 +14,8 @@
 ###
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=vinishdas&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="186" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=vinishdas&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1&custom_title=wroks" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=vinishdas&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="186" alt="streak graph"  /><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vinishdas&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1&custom_title=wroks" height="220" alt="stats graph"  />
  
 </div>
 
