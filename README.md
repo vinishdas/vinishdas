@@ -3,7 +3,8 @@
 
 <h5 align="left">My name is vinish and I'm a aspiring, from india</h5>
 
-<hr>
+<hr style="border: 2px solid black; width: 50%;">
+
 
 <h2 align="left">About me</h2>
 
