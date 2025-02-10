@@ -3,7 +3,6 @@
 
 <h5 align="left">My name is vinish and I'm a aspiring, from india</h5>
 
-<hr style="border: 1px solid black;  ">
 
 
 <h2 align="left">About me</h2>
@@ -13,6 +12,7 @@
 <p align="left">I'm a full-stack developer from India 🇮🇳, passionate about building sleek and functional applications. Here’s a little about me:<br><br>💻 Tech Stack: Frontend & Backend – I love crafting beautiful UI/UX designs 🎨 and working on scalable systems.<br><br>🚀 Currently Learning: System Design 🏗️ & diving deeper into app development 📱 (I’m looking for guidance here!)<br><br>🤝 Open to Collaboration: Always excited to work on projects with like-minded devs! Let's build something awesome together! <br><br>⌨️ Typing Speed: 80 WPM ⚡ (Coding & chatting at the speed of light!)<br><br>🎤 Fun Fact: I also do stand-up comedy! 😂 So, expect some bugs & laughs in my commits!</p>
 
 ###
+<hr style="border: 1px solid black;  ">
 
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=vinishdas&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="186" alt="streak graph"  /><br/>
