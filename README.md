@@ -3,7 +3,7 @@
 
 <h5 align="left">My name is vinish and I'm a aspiring, from india</h5>
 
-###
+<hr>
 
 <h2 align="left">About me</h2>
 
@@ -88,7 +88,7 @@
   <a href="https://www.instagram.com/vinishdas?igsh=eHJiYmNpcnlhaTMx" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="divinish6669@gmail.com" target="_blank">
+  <a href="hdivinish6669@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
